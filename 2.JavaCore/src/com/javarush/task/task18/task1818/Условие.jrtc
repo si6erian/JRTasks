@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1818">
+<h3>Два в одном</h3>
+<p>Считать с консоли <span class="text-user"><strong>3</strong></span> имени файла.<br />
+Записать в первый файл содержимого второго файла, а потом дописать в первый файл содержимое третьего файла.<br />
+<strong>Закрыть потоки.</strong></p>
+
+</div>

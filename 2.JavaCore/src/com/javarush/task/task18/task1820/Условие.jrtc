@@ -1,0 +1,15 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1820">
+<h3>Округление чисел</h3>
+<p>Считать с консоли <span class="text-user"><strong>2</strong></span> имени файла.<br />
+Первый файл содержит вещественные(дробные) числа, разделенные пробелом. Например, <span class="text-user"><strong>3.1415</strong></span>.<br />
+Округлить числа до целых и записать через пробел во второй файл.<br />
+Закрыть потоки.</p>
+<p><strong>Принцип округления:</strong><br />
+<span class="text-neon">3.49 &#8212; 3</span><br />
+<span class="text-neon"> 3.50 &#8212; 4</span><br />
+<span class="text-neon"> 3.51 &#8212; 4</span><br />
+<span class="text-neon"> -3.49 &#8212; -3</span><br />
+<span class="text-neon"> -3.50 &#8212; -3</span><br />
+<span class="text-neon"> -3.51 &#8212; -4</span></p>
+
+</div>

@@ -1,0 +1,10 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1812">
+<h3>Расширяем AmigoOutputStream</h3>
+<p>Используя шаблон проектирования <span class="text-neon"><strong>Wrapper (Decorator)</strong></span> расширь функциональность <span class="text-corporate"><strong>AmigoOutputStream</strong></span>.<br />
+В классе <span class="text-corporate"><strong>QuestionFileOutputStream</strong></span> при вызове метода <mark>close()</mark> должна быть реализована следующая функциональность:<br />
+1. Вывести в консоль фразу &#171;<em><strong>Вы действительно хотите закрыть поток? Д/Н</strong></em>&#171;.<br />
+2. Считайте строку.<br />
+3. Если считанная строка равна &#171;<em><strong>Д</strong></em>&#171;, то закрыть поток.<br />
+4. Если считанная строка не равна &#171;<em><strong>Д</strong></em>&#171;, то не закрывать поток.</p>
+
+</div>

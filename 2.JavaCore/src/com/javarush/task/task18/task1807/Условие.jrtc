@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1807">
+<h3>Подсчет запятых</h3>
+<p>С консоли считать имя файла.<br />
+Посчитать в файле количество символов &#8216;<em><strong>,</strong></em>&#8216;, количество вывести на консоль.<br />
+Закрыть потоки.</p>
+<p><strong>Подсказка:<br />
+</strong><em>нужно сравнивать с</em> <strong>ascii</strong><em>-кодом символа</em> &#8216;<em><strong>,</strong></em>&#8216;.</p>
+
+</div>

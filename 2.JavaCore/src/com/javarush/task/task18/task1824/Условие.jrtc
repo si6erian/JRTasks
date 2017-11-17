@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1824">
+<h3>Файлы и исключения</h3>
+<p>Читайте с консоли имена файлов.<br />
+Если файла не существует (<em><strong>передано неправильное имя файла</strong></em>), то перехватить исключение <strong>FileNotFoundException</strong>, вывести в консоль переданное неправильное имя файла и завершить работу программы.<br />
+<strong>Закрыть потоки.</strong><br />
+Не используйте <mark class="green">System</mark>.<mark>exit()</mark>;</p>
+
+</div>

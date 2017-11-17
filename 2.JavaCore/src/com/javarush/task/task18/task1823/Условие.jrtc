@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1823">
+<h3>Нити и байты</h3>
+<p>Читайте с консоли имена файлов, пока не будет введено слово &#171;<em><strong>exit</strong></em>&#171;.<br />
+Передайте имя файла в нить <span class="text-corporate"><strong>ReadThread</strong></span>.<br />
+Нить <strong><span class="text-corporate">ReadThread</span></strong> должна найти байт, который встречается в файле максимальное число раз, и добавить его в словарь <strong><span class="text-red">resultMap</span></strong>,<br />
+где параметр <mark class="user">String</mark> &#8212; это имя файла, параметр <mark class="user">Integer</mark> &#8212; это искомый байт.<br />
+<strong>Закрыть потоки.</strong></p>
+
+</div>

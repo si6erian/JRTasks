@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1819">
+<h3>Объединение файлов</h3>
+<p>Считать с консоли <span class="text-user"><strong>2</strong></span> имени файла.<br />
+В начало первого файла записать содержимое второго файла так, чтобы получилось объединение файлов.<br />
+<strong>Закрыть потоки.</strong></p>
+
+</div>

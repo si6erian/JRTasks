@@ -1,0 +1,27 @@
+<div class="wdghtml" taskKey="com.javarush.task.task17.task1711">
+<h3>CRUD 2</h3>
+<p><strong>CrUD</strong> <strong>Batch</strong> &#8212; <em><strong>multiple Creation</strong></em>, <em><strong>Updates</strong></em>, <em><strong>Deletion</strong></em></p>
+<p><strong>Программа запускается с одним из следующих наборов параметров:</strong><br />
+<code>-c name1 sex1 bd1 name2 sex2 bd2 ...<br />
+-u id1 name1 sex1 bd1 id2 name2 sex2 bd2 ... <br />
+-d id1 id2 id3 id4 ...<br />
+-i id1 id2 id3 id4 ...</code></p>
+<p><strong>Значения параметров:</strong><br />
+<strong>name</strong> &#8212; имя, String<br />
+<strong>sex</strong> &#8212; пол, &#171;м&#187; или &#171;ж&#187;, одна буква<br />
+<strong>bd</strong> &#8212; дата рождения в следующем формате 15/04/1990<br />
+<strong>-с</strong> &#8212; добавляет всех людей с заданными параметрами в конец allPeople, выводит id (index) на экран в соответствующем порядке<br />
+<strong>-u</strong> &#8212; обновляет соответствующие данные людей с заданными id<br />
+<strong>-d</strong> &#8212; производит логическое удаление человека с id, заменяет все его данные на null<br />
+<strong>-i</strong> &#8212; выводит на экран информацию о всех людях с заданными id: name sex bd<br />
+<strong>id</strong> соответствует индексу в списке</p>
+<p>Формат вывода даты рождения <strong>15-Apr-1990</strong><br />
+Все люди должны храниться в <strong><span class="text-red">allPeople</span></strong><br />
+Порядок вывода данных соответствует вводу данных<br />
+Обеспечить корректную работу с данными для множества нитей (чтоб не было затирания данных)<br />
+Используйте <mark class="green">Locale</mark>.<mark class="user">ENGLISH</mark> в качестве второго параметра для <span class="text-corporate"><strong>SimpleDateFormat</strong></span></p>
+<p><strong>Пример вывода для параметра -і с двумя id:</strong><br />
+<code>Миронов м 15-Apr-1990<br />
+Миронова ж 25-Apr-1997</code></p>
+
+</div>

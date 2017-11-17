@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1808">
+<h3>Разделение файла</h3>
+<p>Считать с консоли три имени файла: <strong>файл1</strong>, <strong>файл2</strong>, <strong>файл3</strong>.<br />
+Разделить <strong>файл1</strong> по следующему критерию:<br />
+Первую половину байт записать в <strong>файл2</strong>, вторую половину байт записать в <strong>файл3</strong>.<br />
+Если в <strong>файл1</strong> количество байт нечетное, то <strong>файл2</strong> должен содержать большую часть.<br />
+<strong>Закрыть потоки.</strong></p>
+
+</div>

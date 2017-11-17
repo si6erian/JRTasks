@@ -1,0 +1,13 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1805">
+<h3>Сортировка байт</h3>
+<p><strong>Ввести</strong> с консоли имя файла.<br />
+<strong>Считать</strong> все байты из файла.<br />
+Не учитывая повторений &#8212; отсортировать их по байт-коду в возрастающем порядке.<br />
+<strong>Вывести</strong> на экран.<br />
+<strong>Закрыть</strong> <strong>поток ввода-вывода</strong>.</p>
+<p><strong>Пример байт входного файла:</strong><br />
+<code>44 83 44</code></p>
+<p><strong>Пример вывода:</strong><br />
+<code>44 83</code></p>
+
+</div>

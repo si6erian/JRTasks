@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1803">
+<h3>Самые частые байты</h3>
+<p><strong> Ввести</strong> с консоли имя файла.<br />
+Найти <strong>байт или байты</strong> с <strong>максимальным</strong> количеством повторов.<br />
+<strong>Вывести</strong> их на экран через пробел.<br />
+<strong>Закрыть поток ввода-вывода.</strong></p>
+
+</div>

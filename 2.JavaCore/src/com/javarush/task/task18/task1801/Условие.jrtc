@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1801">
+<h3>Максимальный байт</h3>
+<p><strong> Ввести</strong> с консоли имя файла.<br />
+Найти <strong>максимальный байт</strong> в файле, <strong>вывести</strong> его на экран.<br />
+<strong>Закрыть</strong> <strong>поток</strong> <strong>ввода-вывода</strong>.</p>
+
+</div>

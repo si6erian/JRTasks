@@ -1,0 +1,13 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1826">
+<h3>Шифровка</h3>
+<p>Придумать механизм <strong>шифровки</strong>/<strong>дешифровки</strong>.</p>
+<p>Программа запускается с одним из следующих наборов параметров:<br />
+<code>-e fileName fileOutputName<br />
+-d fileName fileOutputName</code></p>
+<p>где:<br />
+<strong>fileName</strong> &#8212; имя файла, который необходимо зашифровать/расшифровать.<br />
+<strong>fileOutputName</strong> &#8212; имя файла, куда необходимо записать результат шифрования/дешифрования.<br />
+<strong>-e</strong> &#8212; ключ указывает, что необходимо зашифровать данные.<br />
+<strong>-d</strong> &#8212; ключ указывает, что необходимо расшифровать данные.</p>
+
+</div>

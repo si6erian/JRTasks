@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1814">
+<h3>UnsupportedFileName</h3>
+<p>Измени класс <span class="text-corporate"><strong>TxtInputStream</strong></span> так, чтобы он работал только с <strong>txt-файлами</strong> (<em><strong>*.txt</strong></em>).<br />
+Например, <strong>first.txt</strong> или <strong>name.1.part3.txt</strong>.<br />
+Если передан не <strong>txt-файл</strong>, например, <strong>file.txt.exe</strong>, то конструктор должен выбрасывать исключение <strong>UnsupportedFileNameException</strong>.<br />
+Подумай, что еще нужно сделать, в случае выброшенного исключения.</p>
+
+</div>

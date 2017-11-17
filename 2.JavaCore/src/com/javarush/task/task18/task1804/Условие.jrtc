@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1804">
+<h3>Самые редкие байты</h3>
+<p><strong> Ввести</strong> с консоли имя файла.<br />
+Найти <strong>байт</strong> или <strong>байты</strong> с <strong>минимальным</strong> количеством повторов.<br />
+<strong>Вывести</strong> их на экран через пробел.<br />
+<strong>Закрыть поток ввода-вывода</strong>.</p>
+
+</div>

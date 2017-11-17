@@ -1,0 +1,9 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1813">
+<h3>AmigoOutputStream</h3>
+<p>1 Измени класс <span class="text-corporate"><strong>AmigoOutputStream</strong></span> так, чтобы он стал <strong>Wrapper-ом</strong> для класса <span class="text-corporate"><strong>FileOutputStream</strong></span>. Используй наследование.<br />
+2 При вызове метода <mark>close()</mark> должны выполняться следующая последовательность действий:<br />
+2.1 Вызвать метод <mark>flush()</mark>.<br />
+2.2 Дописать следующий текст &#171;<em><strong>JavaRush © All rights reserved.</strong></em>&#171;, используй метод <mark>getBytes()</mark>.<br />
+2.3 Закрыть поток методом <mark>close()</mark>.</p>
+
+</div>

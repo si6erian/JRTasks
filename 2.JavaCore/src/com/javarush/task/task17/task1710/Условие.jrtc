@@ -1,0 +1,25 @@
+<div class="wdghtml" taskKey="com.javarush.task.task17.task1710">
+<h3>CRUD</h3>
+<p><strong>CrUD</strong> &#8212; <em><strong>Create</strong></em>, <em><strong>Update</strong></em>, <em><strong>Delete</strong></em></p>
+<p>Программа запускается с одним из следующих наборов параметров:<br />
+<code>-c name sex bd<br />
+-u id name sex bd<br />
+-d id<br />
+-i id</code></p>
+<p>Значения параметров:<br />
+<strong>name</strong> &#8212; имя, String<br />
+<strong>sex</strong> &#8212; пол, &#171;м&#187; или &#171;ж&#187;, одна буква<br />
+<strong>bd</strong> &#8212; дата рождения в следующем формате 15/04/1990<br />
+<strong>-c</strong> &#8212; добавляет человека с заданными параметрами в конец allPeople, выводит id (index) на экран<br />
+<strong>-u</strong> &#8212; обновляет данные человека с данным id<br />
+<strong>-d</strong> &#8212; производит логическое удаление человека с id, заменяет все его данные на null<br />
+<strong>-i</strong> &#8212; выводит на экран информацию о человеке с id: name sex (м/ж) bd (формат 15-Apr-1990)<br />
+<strong>id</strong> соответствует индексу в списке</p>
+<p>Все люди должны храниться в <strong><span class="text-red">allPeople</span></strong><br />
+Используйте <mark class="green">Locale</mark>.<mark class="user">ENGLISH</mark> в качестве второго параметра для <span class="text-corporate"><strong>SimpleDateFormat</strong></span></p>
+<p><strong>Пример параметров:</strong><br />
+<code>-c Миронов м 15/04/1990</code></p>
+<p><strong>Пример вывода для параметра -і:</strong><br />
+<code>Миронов м 15-Apr-1990</code></p>
+
+</div>

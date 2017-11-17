@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1815">
+<h3>Таблица</h3>
+<p>Измени класс <span class="text-corporate"><strong>TableInterfaceWrapper</strong></span> так, чтобы он стал <strong>Wrapper</strong>-ом для <span class="text-corporate"><strong>ATableInterface</strong></span>.<br />
+Метод <mark>setModel</mark> должен вывести в консоль количество элементов в новом листе перед обновлением модели.<br />
+Метод <mark>getHeaderText</mark> должен возвращать текст в верхнем регистре &#8212; используйте метод <mark>toUpperCase()</mark>.</p>
+
+</div>

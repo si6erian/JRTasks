@@ -1,0 +1,8 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1810">
+<h3>DownloadException</h3>
+<p>1 Считывать с консоли имена файлов.<br />
+2 Если файл меньше <span class="text-user"><strong>1000</strong></span> байт, то:<br />
+2.1 Закрыть потоки работы с файлами.<br />
+2.2 Выбросить исключение <strong>DownloadException</strong>.</p>
+
+</div>

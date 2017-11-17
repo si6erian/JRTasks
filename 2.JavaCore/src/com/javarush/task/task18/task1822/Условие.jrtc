@@ -1,0 +1,15 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1822">
+<h3>Поиск данных внутри файла</h3>
+<p>Считать с консоли имя файла.<br />
+Найти в файле информацию, которая относится к заданному <mark class="user">id</mark>, и вывести ее на экран в виде, в котором она записана в файле.<br />
+Программа запускается с одним параметром: <mark class="user">id</mark> (<span class="text-corporate">int</span>).<br />
+<strong>Закрыть потоки.</strong></p>
+<p>В файле данные разделены пробелом и хранятся в следующей последовательности:<br />
+<strong>id productName price quantity<br />
+</strong>где <mark class="user">id</mark> &#8212; <span class="text-corporate">int</span>.<br />
+<mark class="user">productName</mark> &#8212; название товара, может содержать пробелы, <span class="text-corporate">String</span>.<br />
+<mark class="user">price</mark> &#8212; цена, <span class="text-corporate">double</span>.<br />
+<mark class="user">quantity</mark> &#8212; количество, <span class="text-corporate">int</span>.</p>
+<p>Информация по каждому товару хранится в отдельной строке.</p>
+
+</div>

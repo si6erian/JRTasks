@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1811">
+<h3>Wrapper (Decorator)</h3>
+<p>Разберись, что делает программа.<br />
+Аналогично классу <span class="text-corporate"><strong>DecoratorRunnableImpl</strong></span> создай класс <span class="text-corporate"><strong>DecoratorMyRunnableImpl</strong></span>.</p>
+
+</div>

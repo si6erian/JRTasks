@@ -1,0 +1,7 @@
+<div class="wdghtml" taskKey="com.javarush.task.task18.task1809">
+<h3>Реверс файла</h3>
+<p>Считать с консоли <span class="text-user"><strong>2</strong></span> имени файла: <strong>файл1</strong>, <strong>файл2</strong>.<br />
+Записать в <strong>файл2</strong> все байты из <strong>файл1</strong>, но в обратном порядке.<br />
+<strong>Закрыть потоки.</strong></p>
+
+</div>

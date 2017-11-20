@@ -1,6 +1,7 @@
 package com.javarush.task.level16.lesson13.bonus01;
 
-import com.javarush.test.level16.lesson13.bonus01.common.*;
+
+import com.javarush.task.level16.lesson13.bonus01.common.*;
 
 /**
  * Created by nassi on 29.09.2016.
